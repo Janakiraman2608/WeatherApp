@@ -1,0 +1,49 @@
+{
+  "count": 1,
+  "data": [
+    {
+      "app_temp": 24.8,
+      "aqi": 29,
+      "city_name": "Coimbatore",
+      "clouds": 100,
+      "country_code": "IN",
+      "datetime": "2024-05-27:01",
+      "dewpt": 21.9,
+      "dhi": 75.48,
+      "dni": 664.21,
+      "elev_angle": 20.39,
+      "ghi": 300.41,
+      "gust": null,
+      "h_angle": -75,
+      "lat": 11.0168,
+      "lon": 76.9558,
+      "ob_time": "2024-05-27 01:38",
+      "pod": "d",
+      "precip": 0,
+      "pres": 963.2,
+      "rh": 88,
+      "slp": 1008,
+      "snow": 0,
+      "solar_rad": 54.1,
+      "sources": ["VOCB", "radar", "satellite"],
+      "state_code": "25",
+      "station": "VOCB",
+      "sunrise": "00:27",
+      "sunset": "13:10",
+      "temp": 24,
+      "timezone": "Asia/Kolkata",
+      "ts": 1716773899,
+      "uv": 0.79232734,
+      "vis": 16,
+      "weather": {
+        "icon": "a05d",
+        "description": "Fog",
+        "code": 741
+      },
+      "wind_cdir": "SW",
+      "wind_cdir_full": "southwest",
+      "wind_dir": 220,
+      "wind_spd": 5.7
+    }
+  ]
+}
