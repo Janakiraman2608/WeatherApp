@@ -9,15 +9,15 @@ This application determines the user's location, displays the weather informatio
 ## Installation
 
 1. Clone the repository:
-    git clone https://github.com/your-username/weather-portal.git
-    cd weather-portal
+    git clone https://github.com/Janakiraman2608/WeatherApp.git
+    cd weatherapp
 
 2. Install dependencies:
     npm install
 
 3. Obtain API keys for OpenWeatherMap, Weatherbit, and Google Maps.
 
-4. Create a .env file in the root directory and add your API keys:
+4. Create a config file in the root directory and add your API keys:
     OPENWEATHERMAP_API_KEY=your_openweathermap_api_key
     WEATHERBIT_API_KEY=your_weatherbit_api_key
     GOOGLE_MAPS_API_KEY=your_google_maps_api_key
